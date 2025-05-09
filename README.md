@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Damish👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+%7C+Cloud+%7C+Java+Dev+%7C+Software+Engineering+Student;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%7C+Software+Engineering+Student!" alt="Typing SVG" />
 </p>
 >
 
@@ -38,24 +38,31 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Damish-7&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damish-7&layout=compact&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="40%" />
-</p>
+
+
+
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-damish-anwar-9a2729246">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:damishperaje9@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Damish-7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
-<p align="center">✨ Thanks for visiting! ✨</p>
+<p align="center"><i>"The only way to do great work is to love what you do."</i></p>
