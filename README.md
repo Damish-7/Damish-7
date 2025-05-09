@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Damish👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+%7C+Cloud+%7C+Java+Dev;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+%7C+Cloud+%7C+Java+Dev+%7C+Software+Engineering+Student;Always+learning+something+new!" alt="Typing SVG" />
 </p>
+>
 
 ---
 
