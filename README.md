@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Damish👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+%7C+Cloud+%7C+Java+Dev;Always+learning+something+new!" alt="Typing SVG" />
@@ -6,24 +6,23 @@
 
 ---
 
-## 🚀 About Me
-
-- 💻 I'm a passionate **Cybersecurity & Cloud Computing** enthusiast  
-- ☁️ Skilled in **AWS**, **Linux**, and **DevSecOps** practices  
-- 🔐 Focused on **security automation** and **cloud architecture**
-- 🧠 Currently deepening my knowledge in **Core Java**, **Type Casting**, and **OOP**
-- 📫 Reach me at: **[youremail@example.com]**
-
+### 🔍 About Me
+- 🎓 **Computer Science and Engineering** Student at **KVGCE**  
+- 💼 **Java FullStack Intern** at **X-Workz**  
+- 👨‍💻 Currently working with **Java, Spring Boot, SQL, Git**  
+- 🏆 Hobby: Playing **Football**
+- 📫 Reach me at: **damishperaje9@gmail.com**
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 ---
