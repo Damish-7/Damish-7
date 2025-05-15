@@ -8,6 +8,7 @@
 ---
 
 ### 🔍 About Me
+
 - 🎓 **Computer Science and Engineering** Student at **KVGCE**  
 - 💼 **Java FullStack Intern** at **X-Workz**  
 - 👨‍💻 Currently working with **Java, Spring Boot, SQL, Git**  
