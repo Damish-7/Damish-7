@@ -6,7 +6,7 @@
 > 
 
 --- 
-
+ 
 ### 🔍 About Me
 
 - 🎓 **Computer Science and Engineering** Student at **KVGCE**  
