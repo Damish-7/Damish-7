@@ -10,7 +10,7 @@
 
 - 🎓 **Computer Science and Engineering** Student at **KVGCE**  
 - 💼 **Java FullStack Intern** completed at **X-Workz**  
-- 👨‍💻 Currently working with ** Java, Spring Boot, SQL, Git**  
+- 👨‍💻 **Networking and CyberSecurity Intern** completed at **Tatva networks Pvt.Ltd**    
 - 🏆 Hobby: Playing **Football**  
 - 📫 Reach me at: **damishperaje9@gmail.com**
 ---
