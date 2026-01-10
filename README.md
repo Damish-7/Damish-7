@@ -32,6 +32,11 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Damish-7/Damish-7/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 ### 🌐 Connect With Me
 <p align="left">
