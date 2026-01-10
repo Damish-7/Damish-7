@@ -1,68 +1,55 @@
-<h1 align="center">Hi there, I'm Damish👋  </h1> 
- 
+<h1 align="center">Hi 👋, I'm Damish</h1>
+<h3 align="center">Computer Science Graduate | Web Developer | Cybersecurity & Cloud Enthusiast</h3>
+
+---
+
+### 🌟 About Me
+- 🎓 Recently graduated in Computer Science & Engineering  
+- 💻 Passionate about Web Development, JavaScript, and Cloud Technologies  
+- 🔐 Interested in Cybersecurity & AWS  
+- 🚀 Always learning new technologies and building projects  
+
+---
+
+### 🛠️ Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,python,aws,git,github" />
+</p>
+
+---
+
+### 📂 Projects
+- 🔹 Portfolio Website  
+- 🔹 JavaScript Mini Projects  
+- 🔹 Cloud & Security Labs  
+- 🔹 Machine Learning Basics  
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%7C+Software+Engineering+Student!" alt="Typing SVG" />
-</p>  
-> 
----   
- 
-### 🔍 About Me  
-
-- 🎓 **Computer Science and Engineering** Student at **KVGCE**  
-- 💼 **Java FullStack Intern** completed at **X-Workz**  
-- 👨‍💻 **Networking and CyberSecurity Intern** completed at **Tatva networks Pvt.Ltd**    
-- 🏆 Hobby: Playing **Football**  
-- 📫 Reach me at: **damishperaje9@gmail.com**
----
-
-## 🛠️ Languages & Tools
-
-### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
 </p>
-
-### 🛠️ Development Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Damish-7&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damish-7&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </p>
-   
-
-
-
 
 ---
 
-## 📫 Let's Connect  
-
+### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-damish-anwar-9a2729246">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:damishperaje9@gmail.com.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Damish-7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
-
 ---
+
+⭐ *“Learning never exhausts the mind.”*  
+
 
 <p align="center"><i>"The only way to do great work is to love what you do."</i></p>
