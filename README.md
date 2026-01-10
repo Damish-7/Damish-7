@@ -31,10 +31,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damish-7&theme=react-dark" />
 </p>
 
----
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Damish-7/Damish-7/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
@@ -46,9 +42,11 @@
   <a href="https://github.com/Damish-7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="mailto:damishperaje9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
----
 
 
 
