@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Damish</h1>
-<h3 align="center">Computer Science Graduate | Web Developer | Cybersecurity & Cloud Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Web Developer | </h3>
 
 ---
 
 ### 🌟 About Me
 - 🎓 Recently graduated in Computer Science & Engineering  
-- 💻 Passionate about Web Development, JavaScript, and Cloud Technologies  
-- 🔐 Interested in Cybersecurity & AWS  
+- 💻 Passionate about Web Development, JavaScript,  
+- 🔐 Hobby is playing football.
 - 🚀 Always learning new technologies and building projects  
 
 ---
@@ -21,8 +21,8 @@
 ### 📂 Projects
 - 🔹 Portfolio Website  
 - 🔹 JavaScript Mini Projects  
-- 🔹 Cloud & Security Labs  
-- 🔹 Machine Learning Basics  
+- 🔹 Gym management system  
+- 🔹 Campus recruitment system  
 
 ---
 
@@ -42,7 +42,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Damish-7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
