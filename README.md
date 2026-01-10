@@ -13,9 +13,10 @@
 
 ### 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mySql,java,python,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,aws,git,github,linux" />
+  ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red)
+  ![Nmap](https://img.shields.io/badge/Nmap-Security-green)
 </p>
-
 ---
 
 ### 📂 Projects
