@@ -49,7 +49,7 @@
 
 ---
 
-⭐ *“Learning never exhausts the mind.”*  
 
 
-<p align="center"><i>"The only way to do great work is to love what you do."</i></p>
+
+<p align="center"><i>" ⭐ The only way to do great work is to love what you do."</i></p>
