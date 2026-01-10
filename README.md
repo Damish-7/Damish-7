@@ -26,13 +26,9 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Damish-7&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damish-7&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damish-7&theme=react-dark" />
 </p>
 
 ---
