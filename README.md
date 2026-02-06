@@ -1,50 +1,41 @@
-<h1 align="center">⚡ I'm DAMISH </h1>
-<p align="center"><i>Computer Science Graduate • Web Developer • Tech Enthusiast</i></p>
-
----
-
-## 🧩 Profile
-
-- 👤 **Name:** Damish  
-- 🎓 **Degree:** Computer Science & Engineering     
-- ⚽ **Hobby:** Football (off the screen)
-
-
----
-
-## 🧠 What I’m Doing
-
-- 🌐 Building responsive web applications  
-- 🧩 Strengthening fundamentals  
-- 🗄️ Working with new tools  
-- ☁️ Exploring technologies  
-- 🛠 Trying to Turn ideas into real projects  
-
----
-
-
-## 🗂 Projects
-- 🍴 Recipe Lens
-- 🏋️ Gym Management System
-- 🎓 Campus Recruitment System
-- 💰 Money Manager flutter
-- 📱 GST Calculator 
-  
-
----
-
-## 🛠 Tech Stack
-
+<!-- Animated Typing Intro -->
 <p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Damish+%F0%9F%91%8B;Computer+Science+Engineer;Web+Developer;Always+Learning+%26+Building;Welcome+to+my+GitHub+Profile!"
+    alt="Typing SVG" 
+  />
+</p>
+
+---
+
+<h3 align="center">💻 Turning ideas into code | Debugging life one bug at a time</h3>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Computer Science & Engineering Graduate  
+- 🌐 Passionate Web Developer  
+- ⚽ Football lover  
+- 🚀 Constantly learning, building & improving  
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,aws,git,github,linux" />
 </p>
 
+---
 
+## 📂 Projects
+- 🔹 Portfolio Website  
+- 🔹 JavaScript Mini Projects  
+- 🔹 Gym Management System  
+- 🔹 Campus Recruitment System  
 
 ---
 
 ## 📈 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damish-7&theme=react-dark&hide_border=true" />
 </p>
@@ -52,13 +43,12 @@
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/Damish-7">
+<p align="left">
+  <a href="https://github.com/Damish-7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:damishperaje9@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -67,6 +57,6 @@
 
 ---
 
-
-
-<p align="center"><i>" ⭐ The only way to do great work is to love what you do."</i></p>
+<p align="center">
+  <i>⭐ “Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
