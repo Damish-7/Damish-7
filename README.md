@@ -9,10 +9,6 @@
 
 ---
 
-<h3 align="center">💻 Turning ideas into code | Debugging life one bug at a time</h3>
-
----
-
 ## 👨‍💻 About Me
 - 🎓 Computer Science & Engineering Graduate  
 - 🌐 Passionate Web Developer  
