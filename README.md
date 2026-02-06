@@ -1,7 +1,7 @@
 <!-- Animated Typing Intro -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Damish+%F0%9F%91%8B;Computer+Science+Engineer;Web+Developer;Always+Learning+%26+Building;Welcome+to+my+GitHub+Profile!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Damish+%F0%9F%91%8B;Computer+Science+Engineer;Web+Developer;Tech+ Enthusiast+%26+Building;Welcome+to+my+GitHub+Profile!"
     alt="Typing SVG" 
   />
 </p>
@@ -28,11 +28,11 @@
 ---
 
 ## 📂 Projects
-- 🔹 Portfolio Website  
-- 🔹 JavaScript Mini Projects  
-- 🔹 Gym Management System  
-- 🔹 Campus Recruitment System  
-
+- 🍴 Recipe Lens
+- 🏋️ Gym Management System
+- 🎓 Campus Recruitment System
+- 💰 Money Manager flutter
+- 📱 GST Calculator 
 ---
 
 ## 📈 GitHub Activity
