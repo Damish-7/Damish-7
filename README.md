@@ -1,64 +1,46 @@
-<!-- ================== TYPING INTRO ================== -->
+
+<!-- Animated Typing Intro -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Hi+I'm+Damish+👋;Computer+Science+Engineer;Web+Developer;Grinding+XP+Every+Day;Welcome+to+my+GitHub+Profile!"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Damish+%F0%9F%91%8B;Computer+Science+Engineer;Web+Developer;Always+Learning+%26+Building;Welcome+to+my+GitHub+Profile!"
+    alt="Typing SVG" 
   />
 </p>
 
-<h3 align="center">🎮 Developer Mode: ON | Debugging reality one commit at a time</h3>
 
 ---
 
-<!-- ================== GAME STATS ================== -->
-## 🕹️ Developer Stats
-<p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-18-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/RANK-Frontend%20Warrior-orange?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/XP-12,450-green?style=for-the-badge&logo=git" />
-</p>
-
-<p align="center">
-  <img src="https://progress-bar.dev/70/?title=HTML&width=220" />
-  <img src="https://progress-bar.dev/65/?title=JavaScript&width=220" />
-  <img src="https://progress-bar.dev/60/?title=Java&width=220" />
-  <img src="https://progress-bar.dev/55/?title=MySQL&width=220" />
-</p>
-
----
-
-## 👨‍💻 Character Bio
+## 👨‍💻 About Me
 - 🎓 Computer Science & Engineering Graduate  
-- 🌐 Web Developer  
-- ⚽ Football enthusiast  
-- 🚀 Always learning new technologies  
-- 🧠 Believes consistency > talent  
+- 🌐 Passionate Web Developer  
+- ⚽ Football lover  
+- 🚀 Constantly learning, building & improving  
 
 ---
 
-## 🛠️ Inventory (Tech Stack)
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,aws,git,github,linux" />
 </p>
 
 ---
 
-## 🧩 Quests Completed
-- 🗡️ Portfolio Website  
-- 🧠 JavaScript Mini Projects  
-- 🏋️ Gym Management System  
-- 🎓 Campus Recruitment System  
-
+## 📂 Projects
+- 🍴 Recipe Lens
+- 🏋️ Gym Management System
+- 🎓 Campus Recruitment System
+- 💰 Money Manager flutter
+- 📱 GST Calculator 
 ---
 
-## 📈 Battle History (GitHub Activity)
+## 📈 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damish-7&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Guild Connections
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/Damish-7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -74,5 +56,5 @@
 ---
 
 <p align="center">
-  <i>⭐ “Level up every day. Even small commits add XP.”</i>
+  <i>⭐ “Code is like humor. When you have to explain it, it’s bad.”</i>
 </p>
