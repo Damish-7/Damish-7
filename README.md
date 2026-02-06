@@ -1,26 +1,24 @@
-<h1 align="center">⚡ Damish.exe</h1>
-<p align="center"><i>System booted • Code loading • Passion running</i></p>
+<h1 align="center">⚡ I'm DAMISH </h1>
+<p align="center"><i>Computer Science Graduate • Web Developer • Tech Enthusiast</i></p>
 
 ---
 
 ## 🧩 Developer Profile
 
 - 👤 **Name:** Damish  
-- 🎓 **Degree:** Computer Science & Engineering  
-- 💻 **Role:** Web Developer  
-- 📍 **Location:** India  
-- ⚽ **Hobby:** Football  
-- 🔁 **Mindset:** Learn → Build → Improve → Repeat  
+- 🎓 **Degree:** Computer Science & Engineering     
+- ⚽ **Hobby:** Football (off the screen)
+
 
 ---
 
 ## 🧠 What I’m Doing
 
 - 🌐 Building responsive web applications  
-- 🧩 Strengthening JavaScript fundamentals  
-- 🗄️ Working with MySQL & databases  
-- ☁️ Exploring AWS & cloud basics  
-- 🛠 Turning ideas into real projects  
+- 🧩 Strengthening fundamentals  
+- 🗄️ Working with new tools  
+- ☁️ Exploring technologies  
+- 🛠 Trying to Turn ideas into real projects  
 
 ---
 
@@ -33,11 +31,12 @@
 ---
 
 ## 🗂 Projects
+- 🍴 Recipe Lens
+- 🏋️ Gym Management System
+- 🎓 Campus Recruitment System
+- 💰 Money Manager flutter
+  
 
-- 🌐 Portfolio Website  
-- 🧩 JavaScript Mini Projects  
-- 🏋️ Gym Management System  
-- 🎓 Campus Recruitment System  
 
 ---
 
@@ -64,9 +63,6 @@
 </p>
 
 ---
-
-<p align="center"><i>"Great developers aren’t born — they debug."</i></p>
-<p align="center">⭐ Thanks for visiting ⭐</p>
 
 
 
