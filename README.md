@@ -3,7 +3,7 @@
 
 ---
 
-## 🧩 Developer Profile
+## 🧩 Profile
 
 - 👤 **Name:** Damish  
 - 🎓 **Degree:** Computer Science & Engineering     
@@ -22,20 +22,23 @@
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,aws,git,github,linux" />
-</p>
-
----
 
 ## 🗂 Projects
 - 🍴 Recipe Lens
 - 🏋️ Gym Management System
 - 🎓 Campus Recruitment System
 - 💰 Money Manager flutter
+- 📱 GST Calculator 
   
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,mysql,aws,git,github,linux" />
+</p>
+
 
 
 ---
