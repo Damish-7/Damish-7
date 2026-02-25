@@ -30,19 +30,19 @@
 
 
  <a href="https://github.com/Damish-7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Damish--7-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Damish--7-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/7.damish" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-7.damish-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/7.damish-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/mohammad-damish-anwar-9a2729246" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Damish%20Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Damish%20Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://snapchat.com/add/damish.7" target="_blank">
-  <img src="https://img.shields.io/badge/Snapchat-damish.7-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  <img src="https://img.shields.io/badge/damish.7-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
 </a>
 
  
