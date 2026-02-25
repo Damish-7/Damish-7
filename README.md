@@ -42,7 +42,7 @@
   </a>
 
  <a href="https://snapchat.com/add/damish.7" target="_blank">
-  <img src="https://img.shields.io/badge/Snapchat-damish.7-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  <img src="https://img.shields.io/badge/damish.7-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
 </a>
 
  
@@ -102,6 +102,13 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=Damish-7&theme=dark&hide_border=true" alt="Streak" />
 </div>
+
+---
+
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damish-7&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
