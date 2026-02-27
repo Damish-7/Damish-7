@@ -78,7 +78,7 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 <img src="https://img.shields.io/badge/Hive-F7B93E?style=for-the-badge&logo=hive&logoColor=black" />
 <br/><br/>
 
