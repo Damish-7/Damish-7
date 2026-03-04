@@ -106,12 +106,17 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/Damish-7/github-readme-stats)
+
+
 ## 📈 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damish-7&theme=react-dark&hide_border=true" />
 </p>
 
 ---
+
+
 
 
 
