@@ -117,8 +117,6 @@ Computer Science graduate with hands-on experience in Flutter development. Built
 
 <img src="https://streak-stats.demolab.com?user=Damish-7&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damish-7&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
-
 </p>
 
 ---
