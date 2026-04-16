@@ -91,12 +91,12 @@ Focused on writing clean, scalable, and efficient code while continuously improv
 </p>
 
 ---
-
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damish-7&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
