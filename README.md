@@ -1,14 +1,10 @@
 <!-- Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,I'm%20DAMISH&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
-  Hi, I'm <strong>Damish</strong>
-</h1>
 
 <h3 align="center">💻 Web Developer | Flutter Developer</h3>
 
@@ -100,8 +96,13 @@ Focused on writing clean, scalable, and efficient code while continuously improv
 
 ---
 
-## ✨ Quote
-
 <p align="center">
   <i>"⭐ The only way to do great work is to love what you do."</i>
 </p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
+
+
