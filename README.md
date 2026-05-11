@@ -15,7 +15,7 @@
 <p align="center">
 Computer Science graduate with hands-on experience in Flutter development.  
 Built cross-platform mobile and web applications with structured architecture and database integration.  
-Focused on writing clean, scalable, and efficient code while continuously improving technical skills.
+Focused on writing clean, scalable, and efficient code while continuously improving technical skills .
 </p>
 
 ---
