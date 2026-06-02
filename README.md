@@ -16,10 +16,15 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-Computer Science graduate with hands-on experience in Flutter development.  
-Built cross-platform mobile and web applications with structured architecture and database integration.  
-Focused on writing clean, scalable, and efficient code while continuously improving technical skills .
+<p >
+  
+🔹 Computer Science graduate passionate about Flutter and Full Stack Development.
+
+🔹 Developed cross-platform mobile and web applications using Flutter, PHP, MySQL, and REST APIs.
+
+🔹 Experienced in state management, database integration, authentication, and responsive UI design.
+
+🔹 Focused on building scalable, maintainable, and user-friendly applications while continuously learning modern technologies.
 </p>
 
 ---
