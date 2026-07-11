@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:f5f5f5,100:FFD700&height=200&section=header&text=Hi,%20I'm%20Damish%20%F0%9F%91%8B&fontSize=38&fontColor=1c1c1c&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=18&descColor=333333" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?  type=waving&color=0:ffffff,50:f5f5f5,100:FFD700&height=200&section=header&text=Hi,%20I'm%20Damish%20%F0%9F%91%8B&fontSize=38&fontColor=1c1c1c&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=18&descColor=333333" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B8860B&center=true&vCenter=true&width=560&lines=Flutter+%2B+GetX+%2B+Provider;PHP+%2B+MySQL+Backend+Engineer;REST+APIs+%7C+Firebase+%7C+Hive;Always+shipping%2C+always+learning" />
 
