@@ -74,6 +74,7 @@ Developer:
   <img src="https://img.shields.io/badge/Hive-F7B93E?style=for-the-badge&logo=hive&logoColor=black" />
 </p>
 
+
 ### Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
