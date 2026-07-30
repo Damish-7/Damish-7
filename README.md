@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4DA3FF&center=true&vCenter=true&width=560&lines=Flutter+%2B+GetX+%2B+Provider;PHP+%2B+MySQL+Backend+Engineer;REST+APIs+%7C+Firebase+%7C+Hive;Always+shipping%2C+always+learning" />
 
 <br/>
-
 <a href="mailto:damishperaje9@gmail.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 <a href="https://github.com/Damish-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/mohammad-damish-anwar-9a2729246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
